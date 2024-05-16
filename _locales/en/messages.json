@@ -1,0 +1,16 @@
+{
+    "name": { "message": "DaLetra" },
+    "description": { "message": "Explore the lyrics of your favorite songs" },
+    "loading_message": { "message": "Loading..." },
+    "not_found_title": { "message": "Music Not Found" },
+    "not_found_message": { "message": "Try searching directly on the [DaLetra website](https://daletra.com)." },
+    "not_identified_title": { "message": "Music Unidentified" },
+    "not_identified_message": { "message": "Sorry, I couldn't identify the music title from this page." },
+    "unsupported_site_title": { "message": "Unsupported Site" },
+    "unsupported_site_message": { "message": "This extension operates only on sites like Apple Music, Spotify, or YouTube." },
+    "unsupported_version_title": { "message": "Unsupported Version" },
+    "unsupported_version_message": { "message": "Please update this extension to the latest version available." },
+    "error_title": { "message": "Something Went Wrong!" },
+    "error_message": { "message": "Please try again later or visit the [DaLetra website](https://daletra.com)." },
+    "site": { "message": "https://daletra.com" }
+}

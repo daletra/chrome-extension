@@ -1,0 +1,16 @@
+{
+    "name": { "message": "DaLetra" },
+    "description": { "message": "Entdecken Sie die Texte Ihrer Lieblingssongs" },
+    "loading_message": { "message": "Lädt..." },
+    "not_found_title": { "message": "Musik nicht gefunden" },
+    "not_found_message": { "message": "Versuchen Sie, direkt auf [DaLetra](https://daletra.top) zu suchen." },
+    "not_identified_title": { "message": "Musik nicht erkannt" },
+    "not_identified_message": { "message": "Entschuldigen Sie, ich konnte den Titel der Musik auf dieser Seite nicht erkennen." },
+    "unsupported_site_title": { "message": "Nicht unterstützte Webseite" },
+    "unsupported_site_message": { "message": "Diese Erweiterung ist nur auf Webseiten wie Apple Music, Spotify oder YouTube funktionsfähig." },
+    "unsupported_version_title": { "message": "Version nicht unterstützt" },
+    "unsupported_version_message": { "message": "Bitte aktualisieren Sie diese Erweiterung auf die aktuellste Version." },
+    "error_title": { "message": "Ein Fehler ist aufgetreten!" },
+    "error_message": { "message": "Bitte versuchen Sie es später erneut oder besuchen Sie [DaLetra](https://daletra.top)." },
+    "site": { "message": "https://daletra.top" }
+}

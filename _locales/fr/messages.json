@@ -1,0 +1,16 @@
+{
+    "name": { "message": "DaLetra" },
+    "description": { "message": "Découvrez les paroles de vos chansons préférées" },
+    "loading_message": { "message": "Chargement en cours..." },
+    "not_found_title": { "message": "Musique introuvable" },
+    "not_found_message": { "message": "Essayez de rechercher directement sur [DaLetra](https://daletra.art)." },
+    "not_identified_title": { "message": "Musique non identifiée" },
+    "not_identified_message": { "message": "Désolé, je n'ai pas réussi à identifier le titre de cette musique sur la page." },
+    "unsupported_site_title": { "message": "Site non pris en charge" },
+    "unsupported_site_message": { "message": "Cette extension est uniquement compatible avec des sites tels que Apple Music, Spotify ou YouTube." },
+    "unsupported_version_title": { "message": "Version non prise en charge" },
+    "unsupported_version_message": { "message": "Merci de mettre à jour cette extension à la version la plus récente." },
+    "error_title": { "message": "Un problème est survenu !" },
+    "error_message": { "message": "Merci de réessayer plus tard ou de visiter [DaLetra](https://daletra.art)." },
+    "site": { "message": "https://daletra.art" }
+}

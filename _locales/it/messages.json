@@ -1,0 +1,16 @@
+{
+    "name": { "message": "DaLetra" },
+    "description": { "message": "Scopri i testi delle tue canzoni preferite" },
+    "loading_message": { "message": "Caricamento..." },
+    "not_found_title": { "message": "Musica non trovata" },
+    "not_found_message": { "message": "Prova a cercarla direttamente su [DaLetra](https://daletra.online)." },
+    "not_identified_title": { "message": "Musica non identificata" },
+    "not_identified_message": { "message": "Mi dispiace, non sono riuscito a identificare il titolo della musica su questa pagina." },
+    "unsupported_site_title": { "message": "Sito non supportato" },
+    "unsupported_site_message": { "message": "Questa estensione funziona solo su siti come Apple Music, Spotify o YouTube." },
+    "unsupported_version_title": { "message": "Versione non supportata" },
+    "unsupported_version_message": { "message": "Aggiorna questa estensione all'ultima versione disponibile." },
+    "error_title": { "message": "Si è verificato un errore!" },
+    "error_message": { "message": "Riprova più tardi o visita [DaLetra](https://daletra.online)." },
+    "site": { "message": "https://daletra.online" }
+}

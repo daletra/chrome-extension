@@ -1,0 +1,16 @@
+{
+    "name": { "message": "DaLetra" },
+    "description": { "message": "Descubre las letras de tus canciones favoritas" },
+    "loading_message": { "message": "Cargando..." },
+    "not_found_title": { "message": "Música no encontrada" },
+    "not_found_message": { "message": "Intenta buscarla directamente en [DaLetra](https://daletra.net)." },
+    "not_identified_title": { "message": "Música no identificada" },
+    "not_identified_message": { "message": "Lo siento, no logré identificar el título de la música en esta página." },
+    "unsupported_site_title": { "message": "Sitio no compatible" },
+    "unsupported_site_message": { "message": "Esta extensión funciona únicamente en sitios como Apple Music, Spotify o YouTube." },
+    "unsupported_version_title": { "message": "Versión no compatible" },
+    "unsupported_version_message": { "message": "Actualiza esta extensión a la versión más reciente disponible." },
+    "error_title": { "message": "¡Hubo un problema!" },
+    "error_message": { "message": "Por favor, intenta de nuevo más tarde o visita [DaLetra](https://daletra.net)." },
+    "site": { "message": "https://daletra.net" }
+}
